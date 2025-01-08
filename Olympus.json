@@ -1,0 +1,7 @@
+{
+  "name": "Olympus Scanlation",
+  "id": "olympusscanlation",
+  "baseUrl": "https://olympuslectura.com",
+  "lang": "es",
+  "supportsLatest": true
+}
